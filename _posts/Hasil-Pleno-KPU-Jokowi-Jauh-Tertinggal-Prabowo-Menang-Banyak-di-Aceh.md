@@ -1,3 +1,7 @@
+---
+layout: post
+title: Hasil Pleno : KPU Jokowi Jauh Tertinggal Prabowo Menang Banyak di Aceh
+---
 ![_config.yml]({{ site.baseurl }}/images/hasil-pleno-kpu-jokowi-jauh-tertinggal-prabowo-menang-banyak-di-aceh.jfif)
 JAKARTA - Komisi Pemilihan Umum (KPU) selesai menggelar rapat pleno rekapitulasi penghitungan suara nasional dan penetapan hasil Pilpres 2019 di Provinsi Aceh. Hasilnya, Prabowo Subianto-Sandiaga Uno keluar sebagai pemenang di Bumi Serambi Makkah.
 
